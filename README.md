@@ -1,4 +1,4 @@
 ## Bem vindo ao Manual Órion
-[CopyRight Centrodata Sistemas](www.centrodata.com.br)
+[CopyRight Centrodata Sistemas](http://www.centrodata.com.br)
 
 
